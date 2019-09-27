@@ -1,0 +1,33 @@
+body{
+  background: orange;
+  color: black;
+  font-size: 25px;
+  font-family: Verdana;
+  text-align: center;
+}
+h1{
+  color: green;
+  font-weight: bold;
+  font-size: 30px;
+}
+h2 {
+  color: green;
+  font-weight: bold;
+  font-size: 20px;
+}
+a {
+  color: blue;
+}
+a:hover {
+  text-decoration: none;
+  color: blue;
+}
+
+table {
+  margin: auto;
+}
+
+td {
+  vertical-align: top;
+  text-align: center
+}
